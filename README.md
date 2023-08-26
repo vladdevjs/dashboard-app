@@ -12,6 +12,7 @@ This repository contains a coding challenge focused on building a landing page t
 
 - React
 - React Redux
+- Redux Toolkit
 
 ### Features
 
