@@ -23,7 +23,7 @@ const FilterPanel = () => {
           ))}
         </Stack>
 
-        <button className='link' onClick={() => dispatch(clearFilter)}>
+        <button className='link' onClick={() => dispatch(clearFilter())}>
           Clear
         </button>
       </div>
